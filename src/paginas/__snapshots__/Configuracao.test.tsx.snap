@@ -4,6 +4,7 @@ exports[`a pagina de configuracao deve ser renderizada corretamente 1`] = `
 <div>
   <div
     class="card"
+    data-testid="card"
   >
     <section>
       <h2>

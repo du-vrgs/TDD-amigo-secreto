@@ -6,7 +6,7 @@ import './estilos.css'
 
 const Card: React.FC = ({ children }) => {
     return (
-        <div className="card">
+        <div className="card" data-testid='card'>
             {children}
         </div>
     )
